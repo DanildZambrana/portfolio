@@ -3,3 +3,4 @@
 .github/
 Dockerfile
 .dockerignore
+k8s
